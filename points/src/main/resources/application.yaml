@@ -1,0 +1,7 @@
+server:
+  port: 57216
+spring:
+  cloud:
+    consul:
+      discovery:
+        register-health-check: false
